@@ -1,6 +1,6 @@
 # Automobile Sales Statistics Dashboard
 
-This project is an interactive data visualization dashboard built with Dash and Plotly. It explores historical automobile sales data from 1980 to 2023, focusing on trends in sales and advertising, especially during recession periods. To compete this project, I followed instructions and lessons from IBM Data Visualisations course, which is a part of IBM Data Analayst Professional Certificate, which I am currently learning from on Coursera.
+This project is an interactive data visualization dashboard built with Dash and Plotly. It explores historical automobile sales data from 1980 to 2023, focusing on trends in sales and advertising, especially during recession periods. To compete this project, I followed instructions and lessons from IBM Data Vizualisations in Python course, which is a part of IBM Data Analayst Professional Certificate, which I am currently learning from on Coursera.
 
 ## Dashboard Overview
 
